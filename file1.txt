@@ -1,2 +1,2 @@
-ejemplo Lineal
+ejemplo Lineal rama3 conflicto
 ajuste para rama 3
