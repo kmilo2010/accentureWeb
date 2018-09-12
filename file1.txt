@@ -1,2 +1,2 @@
-ejemplo Lineal
+ejemplo Lineal add texto conflicto
 ajuste para rama 3
