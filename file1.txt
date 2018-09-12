@@ -1,2 +1,4 @@
 ejemplo Lineal rama3 conflicto
 ajuste para rama 3
+
+solicitud de pull request
